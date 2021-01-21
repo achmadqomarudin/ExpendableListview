@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.project.expandablelistview">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_scroll"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_scroll"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ExpandableListview">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
