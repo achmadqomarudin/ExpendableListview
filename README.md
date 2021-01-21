@@ -22,12 +22,14 @@ Repo to demonstrate Expendable Listview App UI in Android app. This is a follow 
   </a>
 </p>
 
-<table align="center" style="width:50%;">
+<table align="center" style="width:100%;">
   <tr>
-    <th><p align="center">Demo</p></th>
+    <th><p align="center">Example 1</p></th>
+    <th><p align="center">Example 2</p></th>
   </tr>
   <tr>
-    <td><p align="center"><img src="screenshots/1.gif" width="60%"></p></td>
+    <td><p align="center"><img src="screenshots/1.gif" width="100%"></p></td>
+    <td><p align="center"><img src="screenshots/2.jpg" width="55%"></p></td>
   </tr>
 </table>
 
