@@ -5,10 +5,10 @@
 [![Gradle Version](https://img.shields.io/badge/gradle-6.5-green.svg)](https://docs.gradle.org/current/release-notes)
 [![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://java-lang.github.io/awesome-java)
 
-💈 A beautiful Expendable Listview App UI written in Java for android with examples.
+💈 A beautiful Expendable Listview App written in Java for android with examples.
 
 # Source
-Repo to demonstrate Expendable Listview App UI in Android app. This is a follow up on the source at :
+Repo to demonstrate Expendable Listview App in Android app. This is a follow up on the source at :
 
 - [Expendable Listview Library](https://github.com/thoughtbot/expandable-recycler-view)
 - [Flat Icon](https://www.flaticon.com)
